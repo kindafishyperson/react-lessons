@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  place-items: center;
+  min-width: 100vw;
+  min-height: 100vh;
+  display: grid;
+}
+.RedBlock {
+  background-color: red;
+  text-align: center;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+
